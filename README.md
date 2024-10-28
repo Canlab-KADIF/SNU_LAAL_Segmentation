@@ -51,7 +51,7 @@ Both **Standardized Max Logits** and **ATTA** utilize the following datasets for
 3. **Download Pre-trained Models:**
 
     - **Standardized Max Logits:**
-      - [Download Pre-trained Models](#) *(Replace with actual link)*
+      - [Download Pretrained Weights](https://drive.google.com/file/d/1Rqty9pRhGdfhkfqlWbFUFgdFp0DvfORN/view)
       - Place the downloaded models in the `standardized-max-logits/pretrained` directory.
 
     - **ATTA:**
@@ -93,7 +93,7 @@ A simple yet effective approach for identifying unexpected road obstacles in urb
 
 3. **Download Pre-trained Models:**
 
-    - [Link to pre-trained models](#) *(Replace with actual link)*
+    - [Download Pretrained Weights](https://drive.google.com/file/d/1Rqty9pRhGdfhkfqlWbFUFgdFp0DvfORN/view)
     - Place the models in the `pretrained` directory.
 
 4. **Organize Test Datasets:**
