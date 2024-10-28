@@ -34,7 +34,7 @@ A simple yet effective approach for identifying unexpected road obstacles in urb
 
 3. **Download pre-trained models and place them in the `pretrained` directory:**
 
-    - [Link to pre-trained models](#) *(Replace with actual link)*
+    - [Download Pretrained Weights](https://drive.google.com/file/d/1Rqty9pRhGdfhkfqlWbFUFgdFp0DvfORN/view)
 
 4. **Download test datasets and organize them as follows:**
 
